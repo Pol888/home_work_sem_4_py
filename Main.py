@@ -14,7 +14,7 @@ matrix_2 = [[1, 2, 3],
             [4, 5, 6],
             [7, 8, 9]]
 
-#print(matrix_transposition(matrix))
+print(matrix_transposition(matrix))
 # -----------------------------------------------------------------------------------------------------
 # task 2
 
@@ -28,7 +28,7 @@ def function_key_to_value(**kwargs) -> dict:
     return new_dict
 
 
-# print(function_key_to_value(t=[1, 3], k=9))
+print(function_key_to_value(t=[1, 3], k=9))
 # ----------------------------------------------------------------------------------------------------
 # task 3 (банкомат)
 
